@@ -24,3 +24,8 @@ Feel Free to email me at shubham11729@gmail.com
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Iamshubhamhere&show_icons=true&locale=en&layout=compact" alt="Iamshubhamhere" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Iamshubhamhere&show_icons=true&locale=en" alt="Iamshubhamhere" /></p>
