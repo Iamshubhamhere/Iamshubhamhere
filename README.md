@@ -28,4 +28,4 @@ Feel Free to email me at shubham11729@gmail.com
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Iamshubhamhere&show_icons=true&locale=en&layout=compact" alt="Iamshubhamhere" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Iamshubhamhere&show_icons=true&locale=en" alt="Iamshubhamhere" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Iamshubhamhere&show_icons=true&locale=en" alt="Iamshubhamhere" /></p>
